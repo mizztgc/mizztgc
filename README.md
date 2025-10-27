@@ -1,4 +1,6 @@
-## Hi there 👋
+# Go away.
+
+I'm too busy contemplating my life choices.
 
 <!--
 **mizztgc/mizztgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
